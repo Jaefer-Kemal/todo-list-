@@ -120,7 +120,7 @@ input[type="checkbox"]:checked::after {
 
 
 
-scroll {
+.scroll {
   height: 15rem;
   scrollbar-width: thin;
 }
